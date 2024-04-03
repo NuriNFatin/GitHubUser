@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GitHub User</string>
+    <string name="tab_text_2">Following</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="followers_and_following">%d Followers - %d Following</string>
+    <string name="fav">Favorite Users</string>
+
+</resources>
